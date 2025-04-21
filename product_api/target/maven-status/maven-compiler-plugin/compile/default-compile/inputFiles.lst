@@ -1,0 +1,16 @@
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\configurations\JwtAuthenticationFilter.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\configurations\SecurityConfig.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\controllers\AddressRestController.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\controllers\ProductRestController.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\dtos\BasePageableDto.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\dtos\GetAllProductPageableResponse.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\dtos\GetAllProductResponse.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\dtos\GetProductByIdResponse.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\dtos\UpdateCodigoProductRequest.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\models\Address.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\models\Product.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\ProductApiApplication.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\repositories\AddressRepository.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\repositories\ProductRepository.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\services\AddressService.java
+C:\Users\Dastan\Documents\Desarrollo\product_api\src\main\java\pe\idat\dsi\dcn\product_api\services\ProductService.java

@@ -1,0 +1,16 @@
+spring:
+    application:
+        name: authserver
+    datasource:
+        driver-class-name: com.mysql.cj.jdbc.Driver
+        password: 1234
+        url: jdbc:mysql://localhost:3306/security?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+        username: root
+    jpa:
+        hibernate:
+            ddl-auto: update
+        properties:
+            hibernate: org.hibernate.dialect.MySQL8Dialect
+        show-sql: true
+server:
+  port: 9000
